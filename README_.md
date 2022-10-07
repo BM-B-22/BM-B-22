@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reproductive Health and Immunobiology
 - 🌱 I’m currently learning SQL, R, or clinical evidence integration tools
 - 💞️ I’m looking to collaborate on evidence mining in Rep Health, dx, tx projects
-- 📫 How to reach me, here is a good start
+- 📫 How to reach me, here is a good start, or ping me a message via LIn at Beatriz Martinez Burgo :).
 
 <!---
 BM-B-22/BM-B-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
