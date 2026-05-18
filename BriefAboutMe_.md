@@ -1,7 +1,7 @@
 - 👋 Hi, this is Beatriz Martinez Burgo. I am an Experienced BioTechnology Scientist.
 - 👀 I’m interested in Immunobiology, Bioinformatics and the applications in Healthcare.
-- 🌱 I’m continually learning and applying SQL, R, python + clinical data integration tools
-- 💞️ I’m open to collaborate on evidence mining and delivery in Rep Health, Dx, and Tx.
+- 🌱 I’m continually learning to implement SQL, R, python + clinical data integration tools.
+- 💞️ I’m open to collaborate on quality data processing for Healthcare, Diagnostics, and Tx.
 - 📫 How to reach me: HERE is a good start :)!. For further reference to my work, visit:
      LIn: follow me at -- https://www.linkedin.com/in/beatriz-martinez-burgo-phd-5155b583/)      ORCID: consult my publications -- https://orcid.org/0000-0002-5357-4556
 Cheers !
